@@ -1,3 +1,6 @@
+# PowerPoint temporary
+~$*.ppt*
+
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,macos,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,macos,jupyternotebooks
 
